@@ -31,6 +31,9 @@ The ultrasonic sensor continuously measures the distance between the robot and n
 
 ## 📂 Files Included
 - `objectsensemoving.ino` → Main Arduino code
+  
+## 🎥 Demo Video
+`objectsensing.mp4` shows the obstacle avoiding robot detecting objects and moving automatically.
 
 ## 🚀 Future Improvements
 - Bluetooth control
